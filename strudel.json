@@ -1,5 +1,3 @@
-"_base": "https://raw.githubusercontent.com/tidalcycles/Dirt-Samples/master/",
-  "bassdrum": "bd/BT0AADA.wav",
-  "snaredrum": "sd/rytm-01-classic.wav",
-  "hihat": "hh27/000_hh27closedhh.wav"
+"_base": "https://raw.githubusercontent.com/chadoh-lc/strudel_samples",
+  "logdrum1": "AB_AP_Fantastic_Logdrum_One_Shot_Loud.wav",
 }
