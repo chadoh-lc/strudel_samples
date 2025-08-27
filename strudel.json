@@ -1,3 +1,7 @@
-{"_base": "https://raw.githubusercontent.com/chadoh-lc/strudel_samples/main",
-  "logdrum1": "AB_AP_Fantastic_Logdrum_One_Shot_Loud.wav",
+{
+  "_base": "https://raw.githubusercontent.com/chadoh-lc/strudel_samples/main",
+  "perc_log": [
+    "logdrum/AB_AP_Fantastic_Logdrum_One_Shot_Loud.wav",
+    "logdrum/FL_AMA_Logdrum_One_Shot_Short_C.wav"
+  ]
 }
